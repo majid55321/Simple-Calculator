@@ -16,7 +16,7 @@ def divide(x, y):
     return x / y
 
 # Streamlit interface
-st.title("Simple Calculator by Majid Ali")
+st.title("Simple Calculator by Sir Wahab")
 
 # Selection box for operation
 operation = st.selectbox("Choose an operation:", ("Add", "Subtract", "Multiply", "Divide"))
